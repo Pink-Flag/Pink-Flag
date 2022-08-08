@@ -1,5 +1,5 @@
 <div align="center">
-  ### Hi! I'm Matt 👋
+## Hi! I'm Matt 👋
   
 ## About
 I'm a full stack developer, recently graduating from Northcoders, and am currently looking for my first development job.
