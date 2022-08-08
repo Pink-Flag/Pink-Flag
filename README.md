@@ -1,14 +1,15 @@
-<!-- <div align="center"> -->
+<div align="center">
   
 ## Hi! I'm Matt 👋
 I'm a full stack developer, recently graduating from Northcoders, and am currently looking for my first development job.
-  
+  </div>
+  <div align="left">
   - 🔭 I’m currently working on a climate crisis themed endless scroller with a friend
 - 🌱 I’m currently learning Python!
 - 👯 I’m looking to collaborate on open source generative music projects
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was in an episode of the CITV show Woof!
-
+  </div>
 -------------------
 
 ## Contact
