@@ -9,9 +9,9 @@ I'm a full stack developer, recently graduating from Northcoders, and am current
 - 👯 I’m looking to collaborate on open source generative music projects
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was in an episode of the CITV show Woof!
-<div align="center">
--------------------
 
+-------------------
+<div align="center">
 ## Contact
 <a href="[https://www.linkedin.com/in/matthew-johnson-b259b6246/]">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
