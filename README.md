@@ -1,4 +1,4 @@
-<div align="center">
+<><div align="center">
   
 ## Hi! I'm Matt 👋
 I'm a full stack developer, recently graduating from Northcoders, and am currently looking for my first development job.
@@ -23,13 +23,13 @@ I'm a full stack developer, recently graduating from Northcoders, and am current
 -------------------
   </div> 
   
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=Pink-Flag&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Pink-Flag github stats](https://github-readme-stats.vercel.app/api?username=Pink-Flag&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=Pink-Flag&theme=radical&include_all_commits=true&count_private=true)
-
-
+![PInk-Flag github streak](https://github-readme-streak-stats.herokuapp.com/?user=Pink-Flag&theme=radical&include_all_commits=true&count_private=true)
 
 
+
+</>
 
 
 
