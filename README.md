@@ -1,7 +1,7 @@
 <div align="center">
-## Hi! I'm Matt 👋
+## 
   
-## About
+## Hi! I'm Matt 👋
 I'm a full stack developer, recently graduating from Northcoders, and am currently looking for my first development job.
   
   - 🔭 I’m currently working on a climate crisis themed endless scroller with a friend
