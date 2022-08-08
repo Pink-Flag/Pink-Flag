@@ -1,10 +1,10 @@
-<><div align="center">
+<div align="center">
   
 ## Hi! I'm Matt 👋
 I'm a full stack developer, recently graduating from Northcoders, and am currently looking for my first development job.
-  </div>
+</div>
 
-  - 🔭 I’m currently working on a climate crisis themed endless scroller with a friend
+- 🔭 I’m currently working on a climate crisis themed endless scroller with a friend
 - 🌱 I’m currently learning Python!
 - 👯 I’m looking to collaborate on open source generative music projects
 - 😄 Pronouns: he/him
@@ -14,6 +14,7 @@ I'm a full stack developer, recently graduating from Northcoders, and am current
 <div align="center">
 ## Contact
 <a href="[https://www.linkedin.com/in/matthew-johnson-b259b6246/]">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+  </div>
 
 -------------------
 
