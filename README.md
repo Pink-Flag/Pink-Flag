@@ -1,12 +1,19 @@
 <div align="center">
+  ### Hi! I'm Matt 👋
   
 ## About
-Hiya, I am full stack developer, working on multiple open source projects, mainly backend using Node.JS and Mongodb. I have created a range of Discord BOT applications allowing me to become a Verified Discord Bot Developer.
+I'm a full stack developer, recently graduating from Northcoders, and am currently looking for my first development job.
+  
+  - 🔭 I’m currently working on a climate crisis themed endless scroller with a friend
+- 🌱 I’m currently learning Python!
+- 👯 I’m looking to collaborate on open source generative music projects
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I was in an episode of the CITV show Woof!
 
 -------------------
 
 ## Contact
-<a href="https://www.instagram.com/LachlanDev/">![Instagram](https://img.shields.io/badge/LachlanDev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/LachlanDev">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.com/invite/w7B5nKB">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
+<a href="https://www.instagram.com/LachlanDev/">![LinkedIn](https://img.shields.io/badge/LachlanDev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/LachlanDev">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.com/invite/w7B5nKB">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
 </a> ![Discord](https://img.shields.io/badge/LachlanDev%238014-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 -------------------
@@ -29,19 +36,12 @@ Last Edited on: 1/10/2021
 
 
 
-### Hi there 👋
+
 
 <!--
 **Pink-Flag/Pink-Flag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
