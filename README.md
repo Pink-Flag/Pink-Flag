@@ -1,5 +1,4 @@
 <div align="center">
-## 
   
 ## Hi! I'm Matt 👋
 I'm a full stack developer, recently graduating from Northcoders, and am currently looking for my first development job.
@@ -22,25 +21,13 @@ I'm a full stack developer, recently graduating from Northcoders, and am current
   
 -------------------
   
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=LachlanDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=Pink-Flag&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=LachlanDev&theme=radical&include_all_commits=true&count_private=true)
-
- <div>
-
------
-Credits: [LachlanDev](https://github.com/LachlanDev)
-
-Last Edited on: 1/10/2021
+![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=Pink-Flag&theme=radical&include_all_commits=true&count_private=true)
 
 
 
 
 
-<!--
-**Pink-Flag/Pink-Flag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
--->
