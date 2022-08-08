@@ -1,7 +1,8 @@
 <div align="center">
   ### Hi! I'm Matt 👋
   
-I am a full stack developer that recently graduated from the Northcoders bootcamp. I am currently looking for my first development job!
+## About
+I'm a full stack developer, recently graduating from Northcoders, and am currently looking for my first development job.
   
   - 🔭 I’m currently working on a climate crisis themed endless scroller with a friend
 - 🌱 I’m currently learning Python!
@@ -12,7 +13,7 @@ I am a full stack developer that recently graduated from the Northcoders bootcam
 -------------------
 
 ## Contact
-<a href="https://www.instagram.com/LachlanDev/">![LinkedIn](https://img.shields.io/badge/LachlanDev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))</a> <a href="https://twitter.com/LachlanDev">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.com/invite/w7B5nKB">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
+<a href="[https://www.linkedin.com/in/matthew-johnson-b259b6246/]">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://twitter.com/LachlanDev">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.com/invite/w7B5nKB">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
 </a> ![Discord](https://img.shields.io/badge/LachlanDev%238014-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 -------------------
