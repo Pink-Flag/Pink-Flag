@@ -5,7 +5,7 @@ I'm a full stack developer that recently graduated from the Northcoders bootcamp
 </div>
 
 - 🔭 I’m currently working on a climate crisis themed endless scroller with a friend
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning C#!
 - 👯 I’m looking to collaborate on open source generative music projects
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was in an episode of the CITV show Woof!
